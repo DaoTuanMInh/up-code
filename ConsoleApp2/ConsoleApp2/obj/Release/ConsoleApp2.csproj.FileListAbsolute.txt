@@ -1,0 +1,2 @@
+\\Mac\Home\Desktop\C#\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csproj.CoreCompileInputs.cache
